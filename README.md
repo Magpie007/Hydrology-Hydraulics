@@ -1,7 +1,7 @@
 # InfoWorks-ICM
 [Accessing Help and Knowledgebase Articles](https://help.innovyze.com/display/infoworksicm/Accessing+Help+and+Knowledgebase+Articles)
 
-[Innovyze Webinars](https://www.innovyze.com/en-us/webinars)
+[Innovyze Blogs](https://blogs.autodesk.com/innovyze/tag/infoworks-icm/)
 
 # Storm Water Management Model
 [Storm Water Management Model (SWMM)](https://www.epa.gov/water-research/storm-water-management-model-swmm)
