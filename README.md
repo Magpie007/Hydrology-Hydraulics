@@ -6,6 +6,8 @@
 # Storm Water Management Model
 [Storm Water Management Model (SWMM)](https://www.epa.gov/water-research/storm-water-management-model-swmm)
 
+[USEPA SWMM Roadmap](https://github.com/USEPA/Stormwater-Management-Model)
+
 # William James, Robert C. James
 
 [1] Hydrology. User's Guide to SWMM4 RUNOFF and Supporting Modules (Rain, Temperature, Combine and Statistics). Water Systems Models 1. ISBN 10: 0968368107
