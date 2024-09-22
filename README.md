@@ -14,4 +14,5 @@
 
 [2] Hydraulics. User's Guide to SWMM4 Transport, EXTRAN and STORAGE Modules. Water Systems Models 2. ISBN 10: 0968368115
 
-[USGS, Statistical Methods in Water Resources](https://pubs.usgs.gov/publication/tm4A3)
+## USGS
+[Statistical Methods in Water Resources](https://pubs.usgs.gov/publication/tm4A3) | [Supporting Materials](https://www.sciencebase.gov/catalog/item/5bf30260e4b045bfcae0c205)
