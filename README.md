@@ -17,4 +17,6 @@
 ## USGS
 [Statistical Methods in Water Resources](https://pubs.usgs.gov/publication/twri04A3) | [Supporting Materials](https://www.sciencebase.gov/catalog/item/5bf30260e4b045bfcae0c205) | [The R Graph Gallery](https://r-graph-gallery.com/)
 
-[Python and ArcGIS ](http://python.hydrology-amsterdam.nl/) | [hydrogeo](https://cran.r-project.org/web/packages/hydrogeo/) | [smwrGraphs 1](https://pubs.usgs.gov/publication/ofr20161188), [2](https://pubs.usgs.gov/publication/ofr20151103)
+[Python and ArcGIS ](http://python.hydrology-amsterdam.nl/) | [rms](https://cran.r-project.org/web/packages/rms/index.html) | [hydrogeo](https://cran.r-project.org/web/packages/hydrogeo/) | [smwrGraphs 1](https://pubs.usgs.gov/publication/ofr20161188), [2](https://pubs.usgs.gov/publication/ofr20151103) | [R Foundation for Statistical Computing](https://www.r-project.org/) | 
+
+[An R Companion to Applied Regression](https://www.john-fox.ca/Companion/index.html) | [Applied Linear Statistical Models](https://github.com/tohweizhong/pdf-dump/blob/master/01%20Books/Applied%20Linear%20Statistical%20Models.pdf) 
