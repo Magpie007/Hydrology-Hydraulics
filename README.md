@@ -16,3 +16,5 @@
 
 ## USGS
 [Statistical Methods in Water Resources](https://pubs.usgs.gov/publication/twri04A3) | [Supporting Materials](https://www.sciencebase.gov/catalog/item/5bf30260e4b045bfcae0c205) | [The R Graph Gallery](https://r-graph-gallery.com/)
+
+[Python and ArcGIS ](http://python.hydrology-amsterdam.nl/) | [hydrogeo](https://cran.r-project.org/web/packages/hydrogeo/) | [smwrGraphs 1](https://pubs.usgs.gov/publication/ofr20161188), [2](https://pubs.usgs.gov/publication/ofr20151103)
