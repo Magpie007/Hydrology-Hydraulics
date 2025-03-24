@@ -10,6 +10,8 @@
 
 [New York City CSO](https://dec.ny.gov/environmental-protection/water/cso/nyc-cso)
 
+[Water Regulatory Revisions](https://dec.ny.gov/regulatory/regulations/proposed-emergency-recently-adopted-regulations/water-revisions)
+
 ## USEPA CSO
 [Policy and Resources](https://www.epa.gov/npdes/combined-sewer-overflows-csos)
 
